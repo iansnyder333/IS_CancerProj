@@ -1,0 +1,5 @@
+neo4j==5.7.0
+neo4j-driver==5.7.0
+numpy==1.24.2
+pytz==2023.3
+scipy==1.10.1
