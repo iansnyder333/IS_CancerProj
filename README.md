@@ -1,6 +1,6 @@
 # IS_CancerProj
 ## Submission is contained in task.ipynb 
-###Ian Snyder, idsnyder136@gmail.com
+### Ian Snyder, idsnyder136@gmail.com
 
 
 ### assessment description
